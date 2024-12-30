@@ -1,0 +1,22 @@
+[
+  { "question": "What's a memory that always makes you smile?", "type": "Reflection" },
+  { "question": "What's a fear you've overcome?", "type": "Reflection" },
+  { "question": "What's something you're currently working on improving about yourself?", "type": "Deep" },
+  { "question": "What's one thing you've never told anyone?", "type": "Challenge" },
+  { "question": "What's a moment in your life you'll never forget?", "type": "Reflection" },
+  { "question": "What's a value you hold that guides your decisions?", "type": "Deep" },
+  { "question": "What's a mistake you've learned a lot from?", "type": "Reflection" },
+  { "question": "What's your proudest accomplishment?", "type": "Reflection" },
+  { "question": "What do you appreciate most in a friend?", "type": "Connection" },
+  { "question": "What's something you've done recently that scared you?", "type": "Challenge" },
+  { "question": "What's a lesson you've learned the hard way?", "type": "Reflection" },
+  { "question": "What's something you'd love to be remembered for?", "type": "Deep" },
+  { "question": "What's a question you'd love to be asked?", "type": "Reflection" },
+  { "question": "What's one way you like to show love?", "type": "Connection" },
+  { "question": "What's a habit you're proud of?", "type": "Reflection" },
+  { "question": "What's a challenge you've faced recently?", "type": "Deep" },
+  { "question": "Who has had the biggest influence on your life?", "type": "Reflection" },
+  { "question": "What's a moment when you felt truly at peace?", "type": "Reflection" },
+  { "question": "What's one thing you wish people knew about you?", "type": "Challenge" },
+  { "question": "What's a question you'd love to ask me?", "type": "Connection" }
+]

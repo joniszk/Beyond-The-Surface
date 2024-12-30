@@ -1,0 +1,22 @@
+[
+  { "question": "What's one thing you're afraid to ask me but want to know?", "type": "Challenge" },
+  { "question": "What do you think is holding you back in life?", "type": "Deep" },
+  { "question": "What's a difficult truth you've had to accept?", "type": "Reflection" },
+  { "question": "What do you think is the hardest thing about being you?", "type": "Deep" },
+  { "question": "What's something you've always been afraid of?", "type": "Challenge" },
+  { "question": "What's one thing you wish you could change about your past?", "type": "Reflection" },
+  { "question": "What do you need to hear right now?", "type": "Deep" },
+  { "question": "What's one way I can support you better?", "type": "Challenge" },
+  { "question": "What's something you're afraid to lose?", "type": "Deep" },
+  { "question": "What's the biggest lesson you've learned this year?", "type": "Reflection" },
+  { "question": "What's something you're struggling with right now?", "type": "Challenge" },
+  { "question": "What's something you've been holding onto that you need to let go of?", "type": "Reflection" },
+  { "question": "What's a risk you wish you'd taken?", "type": "Challenge" },
+  { "question": "What do you think is your greatest strength?", "type": "Reflection" },
+  { "question": "What do you want to be remembered for?", "type": "Deep" },
+  { "question": "What's a belief you've changed recently?", "type": "Reflection" },
+  { "question": "What do you think I misunderstand about you?", "type": "Challenge" },
+  { "question": "What's something you've done that you're most ashamed of?", "type": "Deep" },
+  { "question": "What's the best way I can earn your trust?", "type": "Challenge" },
+  { "question": "What's a secret you're ready to share?", "type": "Deep" }
+]
