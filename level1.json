@@ -1,22 +1,19 @@
-[
-  { "question": "What are you grateful for?", "type": "Reflection" },
-  { "question": "What's something small that made you smile today?", "type": "Reflection" },
-  { "question": "What's your favorite color and why?", "type": "Connection" },
-  { "question": "What's your favorite hobby?", "type": "Connection" },
-  { "question": "If you could visit any place in the world, where would it be?", "type": "Reflection" },
-  { "question": "What's your favorite childhood memory?", "type": "Reflection" },
-  { "question": "What's a simple pleasure you enjoy?", "type": "Connection" },
-  { "question": "Who inspires you the most?", "type": "Reflection" },
-  { "question": "What's a book or movie you love?", "type": "Connection" },
-  { "question": "What's your go-to comfort food?", "type": "Connection" },
-  { "question": "What's your favorite way to relax?", "type": "Reflection" },
-  { "question": "What's a skill you've always wanted to learn?", "type": "Reflection" },
-  { "question": "What's your dream job?", "type": "Reflection" },
-  { "question": "What's a compliment you've recently received?", "type": "Reflection" },
-  { "question": "What's your favorite holiday?", "type": "Connection" },
-  { "question": "What's a song that always makes you happy?", "type": "Connection" },
-  { "question": "What's your favorite way to spend a weekend?", "type": "Reflection" },
-  { "question": "What's your favorite season and why?", "type": "Connection" },
-  { "question": "What's a random fun fact about you?", "type": "Connection" },
-  { "question": "What's a gift you've received that you'll never forget?", "type": "Reflection" }
-]
+{
+  "questions": [
+    "What is your favorite movie or TV show?",
+    "If you could visit any country in the world, where would you go?",
+    "What is your favorite type of music or your go-to song?",
+    "Do you prefer dogs or cats, and why?",
+    "What is your favorite food or snack?",
+    "What was the last book you read or movie you watched?",
+    "What's your favorite season of the year and why?",
+    "If you could have any superpower, what would it be?",
+    "What's your favorite childhood game or toy?",
+    "Do you enjoy mornings or nights more?",
+    "What's the best gift you've ever received?",
+    "Do you prefer beaches or mountains for vacations?",
+    "If you could instantly master any skill, what would it be?",
+    "What's your favorite holiday tradition?",
+    "What's your go-to comfort food on a tough day?"
+  ]
+}
