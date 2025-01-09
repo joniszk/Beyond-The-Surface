@@ -24,10 +24,12 @@ selected_level = None
 while True:
   event, _ = level_window.read()
   if event in (sg.WINDOW_CLOSED, "Exit"):
-    level_window.close()
+    break 
   if event in ("Level 1", "Level 2", "Level 3"):
     selected_level = f"{event.lower().replace(' ', '')}.json"
     break
+
+level_window.close()
 
 level_window.close()
 
