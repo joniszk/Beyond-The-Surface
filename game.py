@@ -31,8 +31,6 @@ while True:
 
 level_window.close()
 
-level_window.close()
-
 #Load questions based on the selected level
 questions = load_questions(selected_level)
 
